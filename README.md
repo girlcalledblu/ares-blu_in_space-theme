@@ -1,2 +1,2 @@
-# ares-blu_in_space-theme
+# Blu In Space! An Ares Theme...
 A space-style theme for Ares.
