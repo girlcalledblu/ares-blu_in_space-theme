@@ -3,6 +3,9 @@
 # Blu In Space! An Ares Theme...
 This theme is very adaptable and flexible for whatever color scheme or font families you would like to use for your game. The core of this theme is derived from the Basic Blu theme, but adds lots of glow, provides a different icon, and has small sci-fi touches here and there. There's lots of room here to grow, but also a great place to start if you want any kind of science fiction theme. This theme has been adapted for rowdy Mandalorian games with deep brown and red accents, but also clean and crisp high-tech themes. The glow is easy to change and adapt, or remove entirely.
 
+## Images
+Unlike the Basic Blu package, this package includes some lovely starting places for images. Uniquely designed fav icons, box image, and a background image helps you get started with a general feel. These images are easy to replace within the `theme_images` folder on your game's files.
+
 ## Changing Colors
 Use the built-in Theme Colors in the setup options. It will automatically update (almomst) all the colors in the theme. The muted rainbow colors and shades-of-grey can be tweaked in the CSS style file itself. Please note, there are two specific places where you are going to need to change using RGBA (this is a color-styling that uses red, green, blue, and opacity identifiers instead of hex code).
 
