@@ -297,7 +297,7 @@ code {
 }
 
 .jumbotron-bg {
-	background-image: url(/game/uploads/theme_images/jumbotron-img.png);
+	background-image: url(/game/uploads/theme_images/box-bg.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: 95%;
@@ -764,6 +764,8 @@ blockquote::first-letter {
 
 .profile-wrap {
 	background-color: $box-background-color;
+	background-size: contain;
+	background-position: 90%;
 	border: 0;
 	border-radius: 10px;
 	box-shadow: $glow;
@@ -776,6 +778,7 @@ blockquote::first-letter {
 	flex-basis: 60%;
 	margin-left: 0;
 	margin-right: 0;
+	background-color: rgba(6, 6, 8, 0.7);
 }
 
 .profile-image-wrap {
@@ -961,7 +964,7 @@ blockquote::first-letter {
 }
 
 .scene-ooc-pose .bg-primary {
-	background-color: $secondary-color !important;
+	background-color: $primary-color!important;
 	border-color: $border-color;
 }
 
@@ -1181,19 +1184,18 @@ blockquote::first-letter {
 	background-color: transparent;
 }
 
-.btn-link 
-
 // LOGS
 
 .log-box {
-	background-color: $box-background-color;
+	background-color: rgba(6, 6, 8, 0.7);
 }
 
 .log-wrap {
 	border: 0;
 	background-color: $box-background-color;
 	box-shadow: $glow;
-	background-image: none;
+	background-size: contain;
+	background-position: 90%;
 }
 
 .pose-divider {
@@ -1479,11 +1481,11 @@ tr {
 
 .scene-card-demo > .profile-item-list {
 	padding: 0;
-	border: 1px solid $almost-black;
 }
 
 .scene-card-demo > .profile-demographics > .profile-item:first-of-type {
 	padding: 15px 20px;
+	display: block;
 }
 
 .scene-card-demo > .profile-demographics > .profile-item {
