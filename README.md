@@ -6,6 +6,8 @@ This theme is very adaptable and flexible for whatever color scheme or font fami
 ## Images
 Unlike the Basic Blu package, this package includes some lovely starting places for images. Uniquely designed fav icons, box image, and a background image helps you get started with a general feel. These images are easy to replace within the `theme_images` folder on your game's files.
 
+![alt text](https://github.com/girlcalledblu/ares-blu_in_space-theme/blob/main/favicons.png)
+
 ## Changing Colors
 Use the built-in Theme Colors in the setup options. It will automatically update (almomst) all the colors in the theme. The muted rainbow colors and shades-of-grey can be tweaked in the CSS style file itself. Please note, there are two specific places where you are going to need to change using RGBA (this is a color-styling that uses red, green, blue, and opacity identifiers instead of hex code).
 
