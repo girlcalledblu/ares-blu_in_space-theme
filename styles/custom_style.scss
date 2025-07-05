@@ -933,7 +933,8 @@ blockquote::first-letter {
 	display: none;
 }
 
-.live-scene-controls .btn-link:hover {
+.live-scene-controls .btn-link:hover,
+.chat-controls .btn-link:hover {
 	background-color: transparent;
 	text-shadow: $text-glow;
 	color: $primary-color;
